@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "symbol": "1",
+        "name": "Digital One",
+        "unicodeVal": "U+0031"
+},
+    {
+        "id": 2,
+        "symbol": "2",
+        "name": "Digit Two",
+        "unicodeVal": "U+0032"
+}
+]
